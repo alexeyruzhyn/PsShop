@@ -112,5 +112,4 @@ public class CompareThingsApiAndUITest extends BaseTest {
         softAssert.assertEquals(availabilityOfVideoCardFromUI, availabilityOfVideoCardFromApi);
 
     }
-
 }
