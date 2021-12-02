@@ -1,0 +1,18 @@
+{
+  "mappings": [
+    {
+      "priority": 1,
+      "request": {
+        "method": "GET",
+        "url": "/api/goods"
+      },
+      "response": {
+        "status": 200,
+        "body": "{\"goods\":[\n    {\n      \"name\":\"Видеокарта Inno3D NVIDIA CMP 90-HX MINING CARD (ACMP-90HX-3FS, 288-9N612-101KT)\",\n      \"price\":\"9 999 грн\",\n      \"availability\":\"Под заказ\",\n      \"code\": \"Код: 63918\"\n    },\n    {\n      \"name\":\"МФУ Kyocera Ecosys M2040dn (1102S33NL0)\",\n      \"price\":\"14 065 грн\",\n      \"availability\":\"Доступен\",\n      \"code\": \"Код: 1122990\"\n    },\n    {\n      \"name\":\"Автомобильный Bluetooth-приемник Baseus Qiyin AUX Car Bluetooth Receiver (WXQY-01)\",\n      \"price\":\"259 грн\",\n      \"availability\":\"В наличии\",\n      \"code\": \"Код: 37965\"\n    },\n    {\n      \"name\":\"штатив VELBON EX-323 Mini\",\n      \"price\":\"980 грн\",\n      \"availability\":\"Доступен\",\n      \"code\": \"Код: 24589\"\n    }\n  ]}",
+        "headers": {
+          "Content-Type": "application/json"
+        }
+      }
+    }
+  ]
+}
